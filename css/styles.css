@@ -62,7 +62,7 @@ nav ul li:hover {
     }
 }
 
-@media screen and (min-wdith: 1400px) {
+@media screen and (min-width: 1400px) {
     .flex {
         margin: auto;
         width: 1400px;
